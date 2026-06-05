@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,45:1E3A8A,100:2F80ED&height=230&section=header&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,35:0F172A,70:1E3A8A,100:00D4FF&height=220&section=header&animation=twinkling" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=95&duration=4000&pause=800&color=2F80ED&center=true&vCenter=true&width=1000&height=180&lines=Vrund+Thakkar" alt="Typing SVG" />
 
