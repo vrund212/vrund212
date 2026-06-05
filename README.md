@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vrund212/vrund212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Sacramento&size=95&duration=4000&pause=800&color=2F80ED&center=true&vCenter=true&width=1000&height=180&lines=Vrund+Thakkar" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+<h3>Engineer | Innovator | Problem Solver | Product Management Enthusiast</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+Building where engineering meets leadership, product thinking, and practical impact.
+</p>
+
+<a href="https://www.linkedin.com/in/vrund/">LinkedIn</a> •
+<a href="https://github.com/vrund212">GitHub</a> •
+
+</div>
