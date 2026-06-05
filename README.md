@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" height="260" src="https://i.gifer.com/7VE.gif" alt="Animated technical background" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,15:020617,35:0F172A,55:1E40AF,75:2563EB,100:00E5FF&height=300&section=header&animation=twinkling" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=95&duration=3000&pause=700&color=2F80ED&center=true&vCenter=true&width=1000&height=180&lines=Vrund+Thakkar" alt="Typing SVG" />
 
