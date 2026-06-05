@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=95&duration=4000&pause=800&color=2F80ED&center=true&vCenter=true&width=1000&height=180&lines=Vrund+Thakkar" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Firacode&size=95&duration=4000&pause=800&color=2F80ED&center=true&vCenter=true&width=1000&height=180&lines=Vrund+Thakkar" alt="Typing SVG" />
 
 <h3>Engineer | Innovator | Problem Solver | Product Management Enthusiast</h3>
 
