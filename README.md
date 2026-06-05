@@ -1,10 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=0:020617,35:1E1B4B,70:2563EB,100:22D3EE&height=260&section=header&animation=fadeIn" />
-
-<img width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
-
-<br><br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:0F172A,55:1E3A8A,80:2563EB,100:00D4FF&height=260&section=header&animation=twinkling" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=95&duration=900&pause=150&color=2F80ED&center=true&vCenter=true&width=1000&height=180&lines=Vrund+Thakkar" alt="Typing SVG" />
 
